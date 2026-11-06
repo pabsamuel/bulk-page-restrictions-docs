@@ -20,6 +20,8 @@ The app runs inside your Atlassian Cloud site on the Atlassian Forge platform. I
 - for each page in the tree: page ID, title, type, position in the tree, the view and edit restrictions before and after the change (as Atlassian account IDs and group IDs), the result and an error code;
 - the display names of the people and the names of the groups that appear in those restrictions, so the preview and CSV report are readable.
 
+**To remember which help notes you have dismissed,** the app stores one small flag per user under a one-way hash of your account ID (no account ID, name or other personal data is stored). It is removed with the app's storage when the app is uninstalled.
+
 **The audit report is not stored.** It is assembled in your browser while you view it and downloaded as a file only if you choose to.
 
 The app does not read page content, comments, attachments, email addresses or user profiles beyond the display name returned with a restriction.
