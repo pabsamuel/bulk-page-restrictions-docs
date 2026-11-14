@@ -6,7 +6,7 @@ title: Privacy Policy — Bulk Page Restrictions for Confluence
 
 **App:** Bulk Page Restrictions for Confluence
 **Publisher:** Atesen Software (independent developer, Türkiye)
-**Contact:** sametatesen2@gmail.com
+**Contact:** support@atesensoftware.com
 **Last updated:** 3 October 2026
 
 ## 1. What this app does with data
@@ -44,7 +44,7 @@ For data processed by this app on your site, your organization is the controller
 
 ## 6. Your requests
 
-To ask about data handled by this app, or to request deletion of change records on your site, write to sametatesen2@gmail.com. Records can also be deleted from the app's **History** tab at any time.
+To ask about data handled by this app, or to request deletion of change records on your site, write to support@atesensoftware.com. Records can also be deleted from the app's **History** tab at any time.
 
 ## 7. Security
 

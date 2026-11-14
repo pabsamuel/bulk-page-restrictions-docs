@@ -12,4 +12,4 @@ Add, remove or replace a person or group in the view and edit restrictions of a 
 - [Privacy policy](privacy.html)
 - [End user terms](terms.html)
 
-Published by **Atesen Software** · sametatesen2@gmail.com
+Published by **Atesen Software** · support@atesensoftware.com
