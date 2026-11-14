@@ -6,7 +6,7 @@ title: End User Terms — Bulk Page Restrictions for Confluence
 
 **App:** Bulk Page Restrictions for Confluence
 **Publisher:** Atesen Software (independent developer, Türkiye)
-**Last updated:** 3 October 2026
+**Last updated:** 14 November 2026
 
 These terms apply to your use of the app. Purchase, billing, refunds and taxes are handled by Atlassian under the Atlassian Marketplace Terms of Use; where those terms conflict with these, the Atlassian terms apply to the purchase relationship.
 
@@ -24,7 +24,7 @@ The app changes who can view and edit pages on your site. It shows a preview fir
 
 ## 4. Support
 
-Support is provided by email at sametatesen2@gmail.com, with a target first response of two business days (Monday–Friday, Istanbul time). See the support page for scope and severity levels.
+Support is provided by email at support@atesensoftware.com, with a target first response of two business days (Monday–Friday, Istanbul time). See the support page for scope and severity levels.
 
 ## 5. No warranty
 
@@ -42,6 +42,10 @@ These terms apply while your subscription or evaluation is active. You may stop 
 
 These terms are governed by the laws of the Republic of Türkiye, and the courts of Sakarya, Türkiye have jurisdiction, without limiting any mandatory consumer rights you have in your own country.
 
-## 9. Contact
+## 9. Platform limits
 
-Atesen Software — sametatesen2@gmail.com
+The app runs on Atlassian Forge and changes pages through the Confluence Cloud REST API. Forge platform quotas and Confluence API rate limits can slow down a large bulk change or stop it before it finishes. When that happens, the pages already changed stay changed and the remaining pages are left as they were. The person who started the change can continue it from the **History** tab with **Resume**.
+
+## 10. Contact
+
+Atesen Software — support@atesensoftware.com

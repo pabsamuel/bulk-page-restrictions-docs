@@ -5,7 +5,7 @@ title: Support — Bulk Page Restrictions for Confluence
 # Support
 
 **App:** Bulk Page Restrictions for Confluence · **Publisher:** Atesen Software
-**Email:** sametatesen2@gmail.com · **First response target:** 2 business days (Monday–Friday, Istanbul time, UTC+3)
+**Email:** support@atesensoftware.com · **First response target:** 2 business days (Monday–Friday, Istanbul time, UTC+3)
 
 ## Getting started
 
@@ -41,4 +41,4 @@ Releases are published through the Atlassian Marketplace with release notes. Min
 
 ## Security reports
 
-Email sametatesen2@gmail.com with the subject line **SECURITY**. We acknowledge within 2 business days and tell you when a fix ships.
+Email support@atesensoftware.com with the subject line **SECURITY**. We acknowledge within 2 business days and tell you when a fix ships.
