@@ -33,6 +33,15 @@ The app always works with **your own Confluence permissions**. Pages you can't s
 
 Keep the window open while the change runs. If it closes, open the change from **History** and select **Resume** — it continues where it stopped.
 
+## Edit restrictions on a page tree
+
+Confluence carries parent **view** restrictions down the tree. Each page has its own **edit** restrictions. A space-level edit restriction applies throughout the space. See [Atlassian’s guide to inherited restrictions](https://support.atlassian.com/confluence-cloud/docs/add-or-remove-page-restrictions/#How-inherited-restrictions-work).
+
+Bulk Page Restrictions writes the selected changes when you click **Apply** and confirm. Start a fresh preview to include a newly created or moved page, or to copy later changes from the top page.
+
+**Copy from top page** replaces the selected restriction lists below that page. It can give more people edit access to a child with stricter settings. Compare the before and after lists in the preview and untick any exception. Choose **Edit only** to leave view restrictions unchanged.
+
+
 ### Why you appear on restrictions
 
 Confluence requires the person who changes a restriction to be named on it. When a change writes a restriction you are not on, you are added to it; the preview shows this as **+ you**. To remove yourself afterwards, ask another admin to remove you.
