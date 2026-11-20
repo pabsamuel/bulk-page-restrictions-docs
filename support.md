@@ -7,6 +7,16 @@ title: Support — Bulk Page Restrictions for Confluence
 **App:** Bulk Page Restrictions for Confluence · **Publisher:** Atesen Software
 **Email:** support@atesensoftware.com · **First response target:** 2 business days (Monday–Friday, Istanbul time, UTC+3)
 
+## Free setup help
+
+Paid and trial sites get free setup help. Email **[support@atesensoftware.com](mailto:support@atesensoftware.com?subject=Setup%20help%20-%20Bulk%20Page%20Restrictions)** with the subject **Setup help** and tell us:
+
+1. Your site URL (`yoursite.atlassian.net`)
+2. The space or top page you want to fix
+3. What should change, for example "add the Finance group to view and edit" or "replace Anna with the HR group"
+
+Within 1 business day we reply with the exact steps for your page tree, with screenshots. It takes about 15 minutes on your side, and you check every change in the preview before you click **Apply**.
+
 ## Getting started
 
 Open a page, select **•••** → **Bulk restrictions for this page tree**, or go to **Space settings → Integrations → Bulk Page Restrictions**. Full steps: [user guide](guide.html).
