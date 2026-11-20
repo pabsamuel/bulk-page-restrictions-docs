@@ -4,7 +4,7 @@ title: User guide — Bulk Page Restrictions for Confluence
 
 # User guide
 
-Bulk Page Restrictions changes the **view** and **edit** restrictions of a page and everything below it in one step. Nothing changes until you have reviewed a preview and confirmed it, and every change can be undone.
+Bulk Page Restrictions changes the **view** and **edit** restrictions of a page and everything below it in one step. Changes are written after you confirm the preview. Undo is available within 30 days for eligible changes.
 
 ## Where to find it
 
@@ -15,6 +15,8 @@ Bulk Page Restrictions changes the **view** and **edit** restrictions of a page 
 | **Confluence administration → Bulk Page Restrictions** | Confluence admins | Everything above, for any space |
 
 The app always works with **your own Confluence permissions**. Pages you can't see are not listed; pages you can't edit are skipped and reported.
+
+[Follow the first-change walkthrough](first-preview.html) for a small practice run.
 
 ## Make a change
 
@@ -43,7 +45,7 @@ Confluence requires the person who changes a restriction to be named on it. When
 
 ## Undo
 
-Open the change (it is shown after it finishes, or from **History**) and select **Undo this change**. Each page is put back to its restrictions before the change. If a page was changed again after your change, undo leaves it alone and reports it. Because of the Confluence rule above, you stay on restrictions that undo writes.
+Open the change (it is shown after it finishes, or from **History**) and select **Undo this change**. Undo restores the previous restrictions where possible. If a page was changed again after your run, undo leaves it alone and reports it. Because of the Confluence rule above, you stay on restrictions that undo writes.
 
 ## CSV report
 
