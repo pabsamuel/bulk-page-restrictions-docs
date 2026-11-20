@@ -15,7 +15,7 @@ Page **•••** menu → **Apps** → **Bulk restrictions for this page tree*
 
 ## 2. Choose the group to add
 
-Choose **Add** and **Edit only**. Under **Choose who to add**, search for your test group and select it. Keep **Leave them open (recommended)** selected so pages without an edit restriction stay open.
+Choose **Add someone** and **Edit only**. Under **Choose who to add**, search for your test group and select it. Keep **Leave them open (recommended)** selected so pages without an edit restriction stay open.
 
 ![Choosing a group in the Bulk Page Restrictions dialog](img/first-2-pick.jpg)
 
