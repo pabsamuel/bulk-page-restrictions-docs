@@ -6,6 +6,8 @@ title: Bulk Page Restrictions for Confluence — Atesen Software
 
 Add, remove or replace a person or group in the view and edit restrictions of a whole page tree — with a page-by-page preview, a CSV report and one-click undo. A read-only audit report lists every restricted page in a space and who it is restricted to.
 
+[See supported restriction changes and trial options](https://atesensoftware.com/apps/atlassian/bulk-page-restrictions/).
+
 - [Run your first bulk restriction change](first-preview.html)
 - [User guide](guide.html)
 - [Support](support.html)
