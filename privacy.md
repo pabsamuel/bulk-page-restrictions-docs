@@ -17,8 +17,9 @@ The app runs inside your Atlassian Cloud site on the Atlassian Forge platform. I
 
 - the Atlassian account ID of the user who started it;
 - the change requested (for example "replace person A with person B"), including the account IDs or group IDs and the names of the people and groups chosen;
-- for each page in the tree: page ID, title, type, position in the tree, the view and edit restrictions before and after the change (as Atlassian account IDs and group IDs), the result and an error code;
+- for each page in the tree (or, for a change across spaces, each restricted page it changes): page ID, title, type, space key, position in the tree, the view and edit restrictions before and after the change (as Atlassian account IDs and group IDs), the result and an error code;
 - the display names of the people and the names of the groups that appear in those restrictions, so the preview and CSV report are readable.
+- for a change that covers several spaces: the keys of the chosen spaces, and for each space that has restricted pages, its key, name and the number of pages that change, already list the person or were skipped.
 
 **To remember which help notes you have dismissed,** the app stores one small flag per user under a one-way hash of your account ID (no account ID, name or other personal data is stored). It is removed with the app's storage when the app is uninstalled.
 
