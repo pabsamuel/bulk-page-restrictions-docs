@@ -10,6 +10,7 @@ Add, remove or replace a person or group in the view and edit restrictions of a 
 
 - [Run your first bulk restriction change](first-preview.html)
 - [User guide](guide.html)
+- [Add a user to all restricted pages across spaces](guide.html#add-a-user-to-all-restricted-pages-across-spaces)
 - [Support](support.html)
 - [Privacy policy](privacy.html)
 - [End user terms](terms.html)

@@ -33,6 +33,27 @@ The app always works with **your own Confluence permissions**. Pages you can't s
 
 Keep the window open while the change runs. If it closes, open the change from **History** and select **Resume** — it continues where it stopped.
 
+## Add a user to all restricted pages across spaces
+
+Use this when someone needs access to every restricted page in several spaces at once, for example a new auditor, manager or IT admin. Available in **Confluence administration → Bulk Page Restrictions** (version 2.18 and later).
+
+1. On **Change restrictions**, next to *Add someone to every restricted page across spaces*, select **Choose who and which spaces**.
+2. **Who to add:** pick a person or a group.
+3. **Which spaces:** select **All spaces**, or tick the spaces you want (up to 100; use the filter to find them).
+4. Select **Find restricted pages**. The app checks every page, folder, whiteboard and database in those spaces, at any depth, and keeps only the pages that have a **view restriction of their own** and don't list that person or group yet.
+5. The preview shows one row per space: how many restricted pages will change, how many already list the person, and example page titles. The page list below shows every page with its space. Untick any page to leave it alone.
+6. Select **Apply** and confirm once. All spaces are done in the same run.
+
+What it changes and what it leaves alone:
+
+- Pages **without** a view restriction stay open. Nothing new gets restricted.
+- Edit restrictions are not touched.
+- A page that only inherits a view restriction from a page above it is not changed: the person gets access through the page above, which is restricted itself and is changed.
+- Pages restricted so that **you** can't see them can't be found, because the app works with your own permissions. Ask the page owner or a space admin for access first.
+- Confluence keeps the person who changes a restriction on it, so you may be added to some pages (shown as **+ you**).
+
+To take the whole run back, open it from **History** and select **Undo this change**. A large run continues in small steps; if the window closes, open it from **History** and select **Resume**.
+
 ## Edit restrictions on a page tree
 
 Confluence carries parent **view** restrictions down the tree. Each page has its own **edit** restrictions. A space-level edit restriction applies throughout the space. See [Atlassian’s guide to inherited restrictions](https://support.atlassian.com/confluence-cloud/docs/add-or-remove-page-restrictions/#How-inherited-restrictions-work).
